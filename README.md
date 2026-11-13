@@ -1,6 +1,6 @@
 # NewsNest — self-hosted, AI-ranked news reader for your own RSS/Atom feeds. Deploy on Railway with one click.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/deploy/TEMPLATE_CODE)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.com/deploy/55OHNx)
 
 [NewsNest](https://github.com/Lucifix/newsnest) (MIT, by Lucifix) pulls your RSS/Atom feeds, GitHub release feeds and
 OPML imports, groups duplicate stories, and (with an AI key) scores each story against your interests so the feed
